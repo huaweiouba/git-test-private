@@ -1,2 +1,2 @@
 # git-test-private
-个人用来学习/练习git命令的仓库
+用来测试git命令的仓库
